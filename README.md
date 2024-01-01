@@ -37,3 +37,37 @@
   <a href="https://gdg.community.dev/gdg-la-paz/?wt.mc_id=studentamb_109888" title="GDG"><img width="100" src="https://user-images.githubusercontent.com/96246255/213929634-719d53ce-9d51-48b1-82e6-496ded7cd41d.png" /></a>
  <a href="https://www.womentechmakers.com/ambassadors/profiles/628b4a78503f832680706ebb/diana_calizaya?wt.mc_id=studentamb_109888" title="WTM"><img width="100" src="https://user-images.githubusercontent.com/96246255/213929720-c052883e-732b-4d61-baf5-2101235edf52.png" /></a>
  <a href="https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/356baacf-10c8-4e6a-8ec9-5b607b7c9f40/?wt.mc_id=studentamb_109888" title="MLSA"><img width="100" src="https://user-images.githubusercontent.com/96246255/213930136-8305f638-7fb1-4b4f-9a62-a623f16c23cf.png" /></a>
+
+
+
+ ### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Software Engineer** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
