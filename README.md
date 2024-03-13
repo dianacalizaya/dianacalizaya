@@ -2,8 +2,8 @@
 
 #### An Azure lover here! ☁️💗
 
-Gold Microsoft Learn Student Ambassador at [Microsoft](https://mvp.microsoft.com/en-US/studentambassadors/profile/356baacf-10c8-4e6a-8ec9-5b607b7c9f40);<br>
-Lead Microsoft User Group Bolivia [Azure Tech Group](https://www.facebook.com/microsoftusergroup.bo);<br>
+Gold Microsoft Learn Student Ambassador at [Microsoft](https://mvp.microsoft.com/en-US/studentambassadors/profile/356baacf-10c8-4e6a-8ec9-5b607b7c9f40)<br>
+Lead Microsoft User Group Bolivia [Azure Tech Group](https://www.facebook.com/microsoftusergroup.bo)<br>
 
 - ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`, `.cpp`, `.ai`
 - 🌍 I'm mostly active within the **WTM Ambassadors Community**
