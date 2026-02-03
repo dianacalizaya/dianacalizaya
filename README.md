@@ -1,7 +1,8 @@
-<!-- Banner Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Diana%20Calizaya&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Azure%20Lover%20☁️💗&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0078D4&center=true&vCenter=true&width=600&lines=Diana+Calizaya;Microsoft+MVP+in+AI" alt="Typing SVG" />
 </div>
+
+---
 
 ## 👩‍💻 Sobre mí
 
@@ -48,9 +49,3 @@ Me encanta educar, inspirar y conectar con personas que comparten mi pasión por
 <a href="mvp.microsoft.com" title="Microsoft MVP"><img width="30" src="https://store-images.s-microsoft.com/image/apps.4820.14075031125413332.02a30362-d427-405d-b196-c751c6c3193d.2103234c-fe1b-4d75-afdf-24d2d0c09fbe.png"/></a>
 <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/356baacf-10c8-4e6a-8ec9-5b607b7c9f40" title="mlsa"><img width="30" src="https://mvp.microsoft.com/Assets/UserProfile/MSA/Badge/LevelGold"/></a>
 <a href="https://www.womentechmakers.com/ambassadors/profiles/628b4a78503f832680706ebb/diana_calizaya?wt.mc_id=studentamb_109888" title="WTM"><img width="30" src="https://user-images.githubusercontent.com/41283239/137619036-6a2c3f40-8f19-45d9-a9fc-136d8cab2e7e.png"/></a>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
-</div>
